@@ -2,6 +2,7 @@
 using namespace std;
 
 int main(){
-	cout<<"Hello World";
+	cout<<"Hello dunia"<<endl;
+	cout<<"ini program c++ pertama saya";
 }
 
